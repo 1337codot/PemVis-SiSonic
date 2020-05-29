@@ -1,0 +1,20 @@
+C:\Users\nadya\Desktop\Codot\Si_Sonic\bin\Debug\jasa_ekspedisi.exe.config
+C:\Users\nadya\Desktop\Codot\Si_Sonic\bin\Debug\jasa_ekspedisi.exe
+C:\Users\nadya\Desktop\Codot\Si_Sonic\bin\Debug\jasa_ekspedisi.pdb
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\Si_Sonic.csprojAssemblyReference.cache
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\jasa_ekspedisi.Form1.resources
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\jasa_ekspedisi.Properties.Resources.resources
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\Si_Sonic.csproj.GenerateResource.cache
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\Si_Sonic.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\jasa_ekspedisi.exe
+C:\Users\nadya\Desktop\Codot\Si_Sonic\obj\Debug\jasa_ekspedisi.pdb
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\Si_Sonic.csprojAssemblyReference.cache
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\jasa_ekspedisi.Form1.resources
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\Si_Sonic.csproj.GenerateResource.cache
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\Si_Sonic.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\Si_Sonic.Properties.Resources.resources
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\bin\Debug\Si_Sonic.exe.config
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\bin\Debug\Si_Sonic.exe
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\bin\Debug\Si_Sonic.pdb
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\Si_Sonic.exe
+C:\Users\nadya\Desktop\Before Upload\Si_Sonic\obj\Debug\Si_Sonic.pdb
